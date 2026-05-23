@@ -79,7 +79,7 @@
 
 ## ⚡ Fun Fact
 
-💡 I believe in **learning by building real-world projects** and continuously improving my skills — one commit at a time!
+🎯 I measure my growth not by courses completed, but by products shipped. Every repository here is a real-world solution I built from scratch — and I'm just getting started.
 
 ---
 
